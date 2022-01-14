@@ -56,6 +56,7 @@ No, obsolete they say. Oh, Redis, let's go with that. Can I rebuild the website 
 Yeah, I do! Ok, that's very cool, but I struggle with content, styles, responsiveness, and every time I see .js I have no clue about what is going on.
 That needs to be changed. I need to buy some books, watch tutorials, write code and learn.
 But how to find out how to style elements to look nice? It's worth giving Adobe XD and Figma a try, maybe those can help?
+
 What I want to say is it is a constant loop of questions and answers and I love it. 
 There is still React to learn, D3.js, and I want to make a simple game with HTML canvas element and JavaScript. 
 Then a mobile app - so React Native is a must-have. 
