@@ -30,21 +30,31 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1c1c1c?style=for-the-badge&logo=javascript)
 ![WordPress](https://img.shields.io/badge/-WordPress-1c1c1c?style=for-the-badge&logo=WordPress&logoColor=white)
-![Woocommerce](https://img.shields.io/badge/-Woocommerce-7b51ad?style=for-the-badge&logo=Woocommerce&logoColor=black)
+![Woocommerce](https://img.shields.io/badge/-Woocommerce-7b51ad?style=for-the-badge&logo=Woo&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=Figma)
 ![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-430134?style=for-the-badge&logo=Adobe%20XD)
 ![GIMP](https://img.shields.io/badge/-GIMP-565041?style=for-the-badge&logo=GIMP)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-ebb20d?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-00a4e6?style=for-the-badge&logo=windows&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-white?style=for-the-badge&logo=Apache&logoColor=c11f32)
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-f28f00?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
 
 <h3>Technologies I used before, but don't yet feel confident about:</h3>
 
+![Sass](https://img.shields.io/badge/-Sass-c76494?style=for-the-badge&logo=Sass&logoColor=white)
 ![PrestaShop](https://img.shields.io/badge/-PrestaShop-a2dbeb?style=for-the-badge&logo=PrestaShop&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)
+![MariaDb](https://img.shields.io/badge/-MariaDB-white?style=for-the-badge&logo=MariaDB&logoColor=black)
 ![Redis](https://img.shields.io/badge/-Redis-d82c20?style=for-the-badge&logo=Redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005b83?style=for-the-badge&logo=mysql&logoColor=d98700)
+![NGINX](https://img.shields.io/badge/-NGINX-008e36?style=for-the-badge&logo=NGINX&logoColor=d98700)
 
+<h3>Technologies I want to learn in future:</h3>
+
+![React](https://img.shields.io/badge/-React-a2dbeb?style=for-the-badge&logo=React&logoColor=black)
+![D3.js](https://img.shields.io/badge/-D3.js-d17449?style=for-the-badge&logo=D3.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-00b37b?style=for-the-badge&logo=Vue.js&logoColor=314559)
+![Node.js](https://img.shields.io/badge/-Node.js-303030?style=for-the-badge&logo=Node.js&logoColor=008e36)
 
 <p>I enjoy everything development-related, from coding to hosting my projects online on my Linux server. 
 I am curious about everything that goes with tech, and it constantly keeps coming towards me, I love it!  </p>
