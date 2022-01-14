@@ -13,31 +13,36 @@
 <a href="https://codepen.io/profana92">
   <img align="left" alt="CodePen" width="22px" src="https://github.com/Profana92/Profana92/blob/main/370725.svg" />
 </a>
-
+<a href="https://www.instructables.com/member/WojciechM3/">
+  <img align="left" alt="CodePen" width="22px" src="https://www.instructables.com/assets/img/instructables-logo-v2.png" />
+</a>
 <p align="center">🙂 <code color="red">let socials = "Find me on my socials";
   console.log(socials);</code> 🙂</p><br>
 
 
 <h2 align="center">My skills:</h2>
 
-Technologies:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<h3>Technologies I feel good with:</h3>
 
-Databases i used:
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1c1c1c?style=for-the-badge&logo=javascript)
+![WordPress](https://img.shields.io/badge/-WordPress-1c1c1c?style=for-the-badge&logo=WordPress&logoColor=white)
+![Woocommerce](https://img.shields.io/badge/-Woocommerce-7b51ad?style=for-the-badge&logo=Woocommerce&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=Figma)
+![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-430134?style=for-the-badge&logo=Adobe%20XD)
+![GIMP](https://img.shields.io/badge/-GIMP-565041?style=for-the-badge&logo=GIMP)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-ebb20d?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-00a4e6?style=for-the-badge&logo=windows&logoColor=white)
 
-Software:
-![Figma](https://img.shields.io/badge/-Figma-181717?style=flat-square&logo=Figma)
-![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-181717?style=flat-square&logo=Adobe%20XD)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<h3>Technologies I used before, but don't yet feel confident about:</h3>
 
-Operating systems:
-![Linux](https://img.shields.io/badge/-Linux-efefef?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-efefef?style=flat-square&logo=windows&logoColor=black)
+![PrestaShop](https://img.shields.io/badge/-PrestaShop-a2dbeb?style=for-the-badge&logo=PrestaShop&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-d82c20?style=for-the-badge&logo=Redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005b83?style=for-the-badge&logo=mysql&logoColor=d98700)
+
 
 <p>I enjoy everything development-related, from coding to hosting my projects online on my Linux server. 
 I am curious about everything that goes with tech, and it constantly keeps coming towards me, I love it!  </p>
@@ -56,3 +61,17 @@ There is still React to learn, D3.js, and I want to make a simple game with HTML
 Then a mobile app - so React Native is a must-have. 
 There is a very long path to get to know all those things and to use them with proficiency I want to use them with, 
 but as one of my favorite quotes states: "The question is never 'why' it is always 'how'." and that "how" is what I want to know.
+
+
+
+<h2 align="center">Privately:</h2>
+
+Mercedes Benz owner ![MercedesBenz](https://img.shields.io/badge/-Mercedes-white?style=for-the-badge&logo=Mercedes&logoColor=black)
+
+Yamaha R6 owner ![Yamaha](https://img.shields.io/badge/-Yamaha-white?style=for-the-badge&logo=Yamaha%20Corporation&logoColor=black)
+
+Guns lover, shooting and gun-related safety instructor ![Guns](https://img.shields.io/badge/-GunLover-white?style=for-the-badge&logo=Counter-Strike&logoColor=black)
+
+Electronics engineer ![Electronics](https://img.shields.io/badge/-Electronics-white?style=for-the-badge&logo=STMicroelectronics&logoColor=black)
+
+Master of Molecular Biotechnology ![Biotechnology](https://img.shields.io/badge/-Biotechnology-white?style=for-the-badge&logo=Microgenetics&logoColor=black)
