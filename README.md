@@ -1,15 +1,16 @@
 ![ProfileVievs](https://komarev.com/ghpvc/?username=Profana92&colorcolor=blueviolet&style=flat-square)
 
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></br> 
-  My name is Wojciech and I am a Junior Front-End Developer. </h1>
+  My name is Wojciech and I am a Front-End Developer. </h1>
 
 <a href="https://www.facebook.com/wojciech.em.14/">
   <img align="left" alt="Facebook" width="22px" src="https://github.com/Profana92/Profana92/blob/main/Facebook_icon_2013.svg" />
 </a>
-<a href="https://www.linkedin.com/in/wojciech-marczak-39bb89104/">
+
+<a href="https://www.linkedin.com/in/wojciech-marczak/">
   <img align="left" alt="LinkedIN" width="22px" src="https://github.com/Profana92/Profana92/blob/main/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/copanzrobisz/">
+<a href="https://www.instagram.com/wizdevlabs/">
   <img align="left" alt="Instagram" width="22px" src="https://github.com/Profana92/Profana92/blob/main/Instagram.svg" />
 </a>
 <a href="https://codepen.io/profana92">
