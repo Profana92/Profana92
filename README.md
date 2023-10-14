@@ -83,30 +83,32 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-00b37b?style=for-the-badge&logo=Vue.js&logoColor=314559)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
-<p>I enjoy everything development-related, from coding to hosting my projects online on my Linux server. 
-I am curious about everything that goes with tech, and it constantly keeps coming towards me, I love it!  </p>
+<h2 align="center">About me:</h2>
+<p>My interests are multifaceted. I find delight in design, coding, and server-side management. Figma and Adobe XD are my design playgrounds. My coding repertoire includes HTML, CSS, JavaScript, React, and TypeScript. I'm adept at maintaining my virtual private server, based on Linux Ubuntu and Nginx, and I'm no stranger to Apache, whether via command line or XAMPP.</p>
+<p>I'm also a content creator and proud owner of the 'WIZdev' and 'YourOwnSite' brands. As a content creator, I'm committed to delivering comprehensive knowledge on coding-related topics. My skills extend to WordPress with the Divi builder, WooCommerce, and phpMyAdmin.</p>
+<p>Currently, I'm diving into the world of React Native, with plans to venture into MongoDB and Three.js shortly. My ultimate aspiration? Crafting 3D websites that stand out with breathtaking visuals, setting businesses apart from the crowd.</p>
 
-<p>Redis? And it all started with a simple pattern, WordPress? Let me check it out and see if it is fun and well... 
-YES, it is. I can't set my own php.ini and I need a longer PHP execution time, that's a pain, let's find out how to do that.
-Oh, a VPS should help, but it is Linux-based... I want to know how to operate that! </p>
+<h2 align="center">Privately:</h2>
 
-Ok, I have my website how I wanted it, but it is too slow when getting data from the database, let's look for a solution. Memcached?
-No, obsolete they say. Oh, Redis, let's go with that. Can I rebuild the website to use MariaDB instead of MySQL and still use WordPress?
-Yeah, I do! Ok, that's very cool, but I struggle with content, styles, responsiveness, and every time I see .js I have no clue about what is going on.
-That needs to be changed. I need to buy some books, watch tutorials, write code and learn.
-But how to find out how to style elements to look nice? It's worth giving Adobe XD and Figma a try, maybe those can help?
+![MercedesBenz](https://img.shields.io/badge/-Mercedes-white?style=for-the-badge&logo=Mercedes&logoColor=black)
+Mercedes Benz owner
 
-What I want to say is it is a constant loop of questions and answers and I love it. 
-There is still React to learn, D3.js, and I want to make a simple game with HTML canvas element and JavaScript. 
-Then a mobile app - so React Native is a must-have. 
-There is a very long path to get to know all those things and to use them with proficiency I want to use them with, 
-but as one of my favorite quotes states: "The question is never 'why' it is always 'how'." and that "how" is what I want to know.
+![Yamaha](https://img.shields.io/badge/-Yamaha-white?style=for-the-badge&logo=Yamaha%20Corporation&logoColor=black)
+Yamaha R6 owner 
 
+![Guns](https://img.shields.io/badge/-GunLover-white?style=for-the-badge&logo=Counter-Strike&logoColor=black)
+Guns lover, shooting and gun-related safety instructor 
+
+![Electronics](https://img.shields.io/badge/-Electronics-white?style=for-the-badge&logo=STMicroelectronics&logoColor=black)
+Electronics engineer 
+
+![Biotechnology](https://img.shields.io/badge/-Biotechnology-white?style=for-the-badge&logo=Microgenetics&logoColor=black)
+Master of Molecular Biotechnology 
 
 <h2 align="center"> GitHub stats</h2>
 <br>
-<p align=center>
-  <div align=center>
+<p align="center">
+  <div align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=profana92&theme=react&border=61dafb&hide_border=true" alt="profana92" />
     </a>
@@ -114,29 +116,14 @@ but as one of my favorite quotes states: "The question is never 'why' it is alwa
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=profana92&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
+
+  <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profana92&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
-  
 </p>
 
 
 
-
-
-<h2 align="center">Privately:</h2>
-
-Mercedes Benz owner ![MercedesBenz](https://img.shields.io/badge/-Mercedes-white?style=for-the-badge&logo=Mercedes&logoColor=black)
-
-Yamaha R6 owner ![Yamaha](https://img.shields.io/badge/-Yamaha-white?style=for-the-badge&logo=Yamaha%20Corporation&logoColor=black)
-
-Guns lover, shooting and gun-related safety instructor ![Guns](https://img.shields.io/badge/-GunLover-white?style=for-the-badge&logo=Counter-Strike&logoColor=black)
-
-Electronics engineer ![Electronics](https://img.shields.io/badge/-Electronics-white?style=for-the-badge&logo=STMicroelectronics&logoColor=black)
-
-Master of Molecular Biotechnology ![Biotechnology](https://img.shields.io/badge/-Biotechnology-white?style=for-the-badge&logo=Microgenetics&logoColor=black)
 
