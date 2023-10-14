@@ -58,7 +58,7 @@
 ![Static Badge](https://img.shields.io/badge/-NGINX-008e36?style=for-the-badge&logo=NGINX&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
 
-<h3>Technologies I used before, but don't yet feel confident about:</h3>
+<h3>Technologies I already used, but don't yet feel confident about:</h3>
 
 ![Static Badge](https://img.shields.io/badge/mongodb-x?style=for-the-badge&logo=mongodb&logoColor=white&color=%2347A248)
 ![PrestaShop](https://img.shields.io/badge/-PrestaShop-DF0067?style=for-the-badge&logo=PrestaShop&logoColor=white)
@@ -97,7 +97,7 @@ Mercedes Benz owner
 Yamaha R6 owner 
 
 ![Guns](https://img.shields.io/badge/-GunLover-white?style=for-the-badge&logo=Counter-Strike&logoColor=black)
-Guns lover, shooting and gun-related safety instructor 
+Guns lover, shooting, and gun-related safety instructor 
 
 ![Electronics](https://img.shields.io/badge/-Electronics-white?style=for-the-badge&logo=STMicroelectronics&logoColor=black)
 Electronics engineer 
@@ -106,24 +106,28 @@ Electronics engineer
 Master of Molecular Biotechnology 
 
 <h2 align="center"> GitHub stats</h2>
-<br>
-<p align="center">
+
   <div align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=profana92&theme=react&border=61dafb&hide_border=true" alt="profana92" />
+      <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=profana92&theme=react&border=61dafb&hide_border=true" alt="profana92" />
+    </a>   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=profana92&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=profana92&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=profana92&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profana92&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-</p>
 
+<h2 align="center">"It's been a pleasure to have you visit my GitHub profile!</h2> 
+  
+<p>If you'd like to stay updated on my latest projects, coding adventures, and tech insights, consider giving me a follow on Instagram or connecting with me on LinkedIn.</p>
 
+📷 **Instagram:** [Instagram](https://www.instagram.com/wizdevlabs/)
 
+👥 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/wojciech-marczak/)
+
+<p>By following me on Instagram, you'll get a glimpse into my coding world and creative projects. LinkedIn is the place to stay informed about my professional journey, tech-related posts, and industry connections.</p>
+
+<p>I truly appreciate your support and look forward to our ongoing interaction in the world of tech and beyond. Let's stay connected!</p>
 
