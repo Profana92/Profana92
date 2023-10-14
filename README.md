@@ -60,13 +60,14 @@
 
 <h3>Technologies I used before, but don't yet feel confident about:</h3>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-x?style=for-the-badge&logo=mongoDB&logoColor=white&color=C02CCC)
-![PrestaShop](https://img.shields.io/badge/-PrestaShop-a2dbeb?style=for-the-badge&logo=PrestaShop&logoColor=black)
-![MariaDb](https://img.shields.io/badge/-MariaDB-white?style=for-the-badge&logo=MariaDB&logoColor=black)
+![Static Badge](https://img.shields.io/badge/mongodb-x?style=for-the-badge&logo=mongodb&logoColor=white&color=%2347A248)
+![PrestaShop](https://img.shields.io/badge/-PrestaShop-DF0067?style=for-the-badge&logo=PrestaShop&logoColor=white)
+![MariaDb](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-d82c20?style=for-the-badge&logo=Redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-005b83?style=for-the-badge&logo=mysql&logoColor=d98700)
+![MySQL](https://img.shields.io/badge/-MySQL-005b83?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/blender-x?style=for-the-badge&logo=blender&logoColor=white&color=%23E87D0D)
 ![Static Badge](https://img.shields.io/badge/adobeillustrator-x?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=%23FF9A00)
+![Static Badge](https://img.shields.io/badge/adobe%20photoshop-x?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=%2331A8FF)
 ![Static Badge](https://img.shields.io/badge/zod-x?style=for-the-badge&logo=zod&logoColor=white&color=%233E67B1)
 
 <h3>Technologies I want to learn in the future:</h3>
