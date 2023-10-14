@@ -1,7 +1,7 @@
 ![ProfileVievs](https://komarev.com/ghpvc/?username=Profana92&colorcolor=blueviolet&style=flat-square)
 
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></br> 
-  My name is Wojciech and I am a Front-End Developer. </h1>
+  My name is Wojciech, and I am a Front-End Developer. </h1>
 
 <a href="https://www.facebook.com/wojciech.em.14/">
   <img align="left" alt="Facebook" width="22px" src="https://github.com/Profana92/Profana92/blob/main/Facebook_icon_2013.svg" />
@@ -40,17 +40,18 @@
 ![Windows](https://img.shields.io/badge/-Windows-00a4e6?style=for-the-badge&logo=windows&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-white?style=for-the-badge&logo=Apache&logoColor=c11f32)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-f28f00?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-008e36?style=for-the-badge&logo=NGINX&logoColor=d98700)
 
 <h3>Technologies I used before, but don't yet feel confident about:</h3>
 
-![Sass](https://img.shields.io/badge/-Sass-c76494?style=for-the-badge&logo=Sass&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-x?style=for-the-badge&logo=mongoDB&logoColor=white&color=C02CCC)
 ![PrestaShop](https://img.shields.io/badge/-PrestaShop-a2dbeb?style=for-the-badge&logo=PrestaShop&logoColor=black)
 ![MariaDb](https://img.shields.io/badge/-MariaDB-white?style=for-the-badge&logo=MariaDB&logoColor=black)
 ![Redis](https://img.shields.io/badge/-Redis-d82c20?style=for-the-badge&logo=Redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005b83?style=for-the-badge&logo=mysql&logoColor=d98700)
-![NGINX](https://img.shields.io/badge/-NGINX-008e36?style=for-the-badge&logo=NGINX&logoColor=d98700)
 
-<h3>Technologies I want to learn in future:</h3>
+
+<h3>Technologies I want to learn in the future:</h3>
 
 ![React](https://img.shields.io/badge/-React-a2dbeb?style=for-the-badge&logo=React&logoColor=black)
 ![D3.js](https://img.shields.io/badge/-D3.js-d17449?style=for-the-badge&logo=D3.js&logoColor=white)
@@ -61,7 +62,7 @@
 I am curious about everything that goes with tech, and it constantly keeps coming towards me, I love it!  </p>
 
 <p>Redis? And it all started with a simple pattern, WordPress? Let me check it out and see if it is fun and well... 
-YES it is. I can't set my own php.ini and I need a longer PHP execution time, that's a pain, let's find out how to do that.
+YES, it is. I can't set my own php.ini and I need a longer PHP execution time, that's a pain, let's find out how to do that.
 Oh, a VPS should help, but it is Linux-based... I want to know how to operate that! </p>
 
 Ok, I have my website how I wanted it, but it is too slow when getting data from the database, let's look for a solution. Memcached?
