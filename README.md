@@ -121,7 +121,7 @@ but as one of my favorite quotes states: "The question is never 'why' it is alwa
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=profana92&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
 </p>
 
 
