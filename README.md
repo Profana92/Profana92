@@ -34,6 +34,7 @@
 ![Static Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/typescript-x?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
 ![Static Badge](https://img.shields.io/badge/axios-x?style=for-the-badge&logo=axios&logoColor=white&color=%235A29E4)
+![Static Badge](https://img.shields.io/badge/vite-x?style=for-the-badge&logo=vite&logoColor=white&color=%23646CFF)
 ![Static Badge](https://img.shields.io/badge/Create%20react%20app-x?style=for-the-badge&logo=createreactapp&logoColor=white&color=%2309D3AC)
 ![Static Badge](https://img.shields.io/badge/React%20Router-x?style=for-the-badge&logo=ReactRouter&logoColor=white&color=%23CA4245)
 ![Static Badge](https://img.shields.io/badge/redux-x?style=for-the-badge&logo=redux&logoColor=white&color=%23764ABC)
@@ -53,6 +54,7 @@
 ![Static Badge](https://img.shields.io/badge/ubuntu-x?style=for-the-badge&logo=ubuntu&logoColor=white&color=%23E95420)
 ![Static Badge](https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+![Static Badge](https://img.shields.io/badge/xampp-x?style=for-the-badge&logo=xampp&logoColor=white&color=%23FB7A24)
 ![Static Badge](https://img.shields.io/badge/-NGINX-008e36?style=for-the-badge&logo=NGINX&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
 
@@ -65,15 +67,20 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-005b83?style=for-the-badge&logo=mysql&logoColor=d98700)
 ![Static Badge](https://img.shields.io/badge/blender-x?style=for-the-badge&logo=blender&logoColor=white&color=%23E87D0D)
 ![Static Badge](https://img.shields.io/badge/adobeillustrator-x?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=%23FF9A00)
-
-
-
+![Static Badge](https://img.shields.io/badge/zod-x?style=for-the-badge&logo=zod&logoColor=white&color=%233E67B1)
 
 <h3>Technologies I want to learn in the future:</h3>
 
+![Static Badge](https://img.shields.io/badge/next.js-x?style=for-the-badge&logo=nextdotjs&logoColor=white&color=%23000000)
 ![D3.js](https://img.shields.io/badge/-D3.js-d17449?style=for-the-badge&logo=D3.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/docker-x?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
+![Static Badge](https://img.shields.io/badge/jest-x?style=for-the-badge&logo=jest&logoColor=white&color=%23C21325)
+![Static Badge](https://img.shields.io/badge/testinglibrary-x?style=for-the-badge&logo=testinglibrary&logoColor=white&color=%23E33332)
+![Static Badge](https://img.shields.io/badge/vitest-x?style=for-the-badge&logo=vitest&logoColor=white&color=%236E9F18)
+![Static Badge](https://img.shields.io/badge/three.js-x?style=for-the-badge&logo=threedotjs&logoColor=white&color=%23000000)
+![Static Badge](https://img.shields.io/badge/svelte-x?style=for-the-badge&logo=svelte&logoColor=white&color=%23FF3E00)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-00b37b?style=for-the-badge&logo=Vue.js&logoColor=314559)
-![Node.js](https://img.shields.io/badge/-Node.js-303030?style=for-the-badge&logo=Node.js&logoColor=008e36)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
 <p>I enjoy everything development-related, from coding to hosting my projects online on my Linux server. 
 I am curious about everything that goes with tech, and it constantly keeps coming towards me, I love it!  </p>
