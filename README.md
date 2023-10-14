@@ -27,20 +27,34 @@
 
 <h3>Technologies I feel good with:</h3>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1c1c1c?style=for-the-badge&logo=javascript)
-![WordPress](https://img.shields.io/badge/-WordPress-1c1c1c?style=for-the-badge&logo=WordPress&logoColor=white)
-![Woocommerce](https://img.shields.io/badge/-Woocommerce-7b51ad?style=for-the-badge&logo=Woo&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=Figma)
-![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-430134?style=for-the-badge&logo=Adobe%20XD)
-![GIMP](https://img.shields.io/badge/-GIMP-565041?style=for-the-badge&logo=GIMP)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-ebb20d?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-00a4e6?style=for-the-badge&logo=windows&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-white?style=for-the-badge&logo=Apache&logoColor=c11f32)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-f28f00?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-008e36?style=for-the-badge&logo=NGINX&logoColor=d98700)
+![Static Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/tailwindcss-x?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)
+![Static Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Static Badge](https://img.shields.io/badge/typescript-x?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
+![Static Badge](https://img.shields.io/badge/axios-x?style=for-the-badge&logo=axios&logoColor=white&color=%235A29E4)
+![Static Badge](https://img.shields.io/badge/Create%20react%20app-x?style=for-the-badge&logo=createreactapp&logoColor=white&color=%2309D3AC)
+![Static Badge](https://img.shields.io/badge/React%20Router-x?style=for-the-badge&logo=ReactRouter&logoColor=white&color=%23CA4245)
+![Static Badge](https://img.shields.io/badge/redux-x?style=for-the-badge&logo=redux&logoColor=white&color=%23764ABC)
+![Static Badge](https://img.shields.io/badge/i18next-x?style=for-the-badge&logo=i18next&logoColor=white&color=%2326A69A)
+![Static Badge](https://img.shields.io/badge/cssmodules-x?style=for-the-badge&logo=cssmodules&logoColor=white&color=%23000000)
+![Static Badge](https://img.shields.io/badge/framer-x?style=for-the-badge&logo=framer&logoColor=white&color=%230055FF)
+![Static Badge](https://img.shields.io/badge/express-x?style=for-the-badge&logo=express&logoColor=white&color=%23000000)
+![Static Badge](https://img.shields.io/badge/react%20hook%20form-x?style=for-the-badge&logo=reacthookform&logoColor=white&color=%23EC5990)
+![Static Badge](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Woocommerce-96588A?style=for-the-badge&logo=Woo&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-GIMP-5C5543?style=for-the-badge&logo=GIMP&logoColor=white)
+![Static Badge](https://img.shields.io/badge/git-x?style=for-the-badge&logo=git&color=%23F05032&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ubuntu-x?style=for-the-badge&logo=ubuntu&logoColor=white&color=%23E95420)
+![Static Badge](https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-NGINX-008e36?style=for-the-badge&logo=NGINX&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
 
 <h3>Technologies I used before, but don't yet feel confident about:</h3>
 
@@ -49,11 +63,14 @@
 ![MariaDb](https://img.shields.io/badge/-MariaDB-white?style=for-the-badge&logo=MariaDB&logoColor=black)
 ![Redis](https://img.shields.io/badge/-Redis-d82c20?style=for-the-badge&logo=Redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005b83?style=for-the-badge&logo=mysql&logoColor=d98700)
+![Static Badge](https://img.shields.io/badge/blender-x?style=for-the-badge&logo=blender&logoColor=white&color=%23E87D0D)
+![Static Badge](https://img.shields.io/badge/adobeillustrator-x?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=%23FF9A00)
+
+
 
 
 <h3>Technologies I want to learn in the future:</h3>
 
-![React](https://img.shields.io/badge/-React-a2dbeb?style=for-the-badge&logo=React&logoColor=black)
 ![D3.js](https://img.shields.io/badge/-D3.js-d17449?style=for-the-badge&logo=D3.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-00b37b?style=for-the-badge&logo=Vue.js&logoColor=314559)
 ![Node.js](https://img.shields.io/badge/-Node.js-303030?style=for-the-badge&logo=Node.js&logoColor=008e36)
