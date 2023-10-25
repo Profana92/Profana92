@@ -129,5 +129,5 @@ Master of Molecular Biotechnology
 
 <p>By following me on Instagram, you'll get a glimpse into my coding world and creative projects. LinkedIn is the place to stay informed about my professional journey, tech-related posts, and industry connections.</p>
 
-<p>I truly appreciate your support and look forward to our ongoing interaction in the world of tech and beyond. Let's stay connected!</p>
+<p>I truly appreciate your support and look forward to our ongoing interaction in the world of tech and beyond. Let's stay connected!!</p>
 
