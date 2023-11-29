@@ -97,7 +97,7 @@ Mercedes Benz owner
 Yamaha R6 owner 
 
 ![Guns](https://img.shields.io/badge/-GunLover-white?style=for-the-badge&logo=Counter-Strike&logoColor=black)
-Guns lover, shooting, and gun-related safety instructor 
+Guns lover, shooting and gun-related safety instructor 
 
 ![Electronics](https://img.shields.io/badge/-Electronics-white?style=for-the-badge&logo=STMicroelectronics&logoColor=black)
 Electronics engineer 
