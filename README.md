@@ -19,7 +19,7 @@
 <a href="https://www.instructables.com/member/WojciechM3/">
   <img align="left" alt="CodePen" width="22px" src="https://www.instructables.com/assets/img/instructables-logo-v2.png" />
 </a>
-<p align="center">🙂 <code color="red">let socials = "Find me on my socials";
+<p align="center">🙂 <code color="red">const socials = "Find me on my socials";
   console.log(socials);</code> 🙂</p><br>
 
 
